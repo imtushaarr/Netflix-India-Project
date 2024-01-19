@@ -14,6 +14,9 @@ Sections highlighting key features of Netflix, including watching on TV, offline
 **app.js:** JavaScript file for potential future interactive features.
 **img:** Directory containing images used in the project.
 
+**Live Demo :**
+https://netflix-india-project.vercel.app
+
 **Getting Started :**
 To view and test the project locally, follow these steps:
 
